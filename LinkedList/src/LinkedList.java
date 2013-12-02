@@ -9,6 +9,6 @@
 
 
 public class LinkedList {
-
+// lol
 	
 }
